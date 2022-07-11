@@ -1,0 +1,9 @@
+.col {
+  margin-top: 160px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  padding: 250px 0px;
+}
